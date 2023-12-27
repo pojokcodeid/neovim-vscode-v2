@@ -17,7 +17,8 @@
   "nvim-ui.nvimColorReplace": "#000",
   "nvim-ui.nvimColorCustomizationKeys": [
     "tab.activeBorder",
-    "editorCursor.foreground"
+    "editorCursor.foreground",
+    "activityBarBadge.background"
   ],
   "extensions.experimental.affinity": {
     "asvetliakov.vscode-neovim": 1
@@ -9277,7 +9278,9 @@
     }
   ],
   "workbench.colorCustomizations": {
-    "editorCursor.foreground": "#FFA500",
-    "tab.activeBorder": "#FFA500"
-  }
+    "editorCursor.foreground": "#bb9af7",
+    "tab.activeBorder": "#bb9af7",
+    "activityBarBadge.background": "#bb9af7"
+  },
+  "editor.minimap.renderCharacters": false
 }
