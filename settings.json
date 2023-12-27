@@ -11,9 +11,9 @@
   "workbench.startupEditor": "none",
   // config neovim start
   // nvim style mode
-  "nvim-ui.nvimColorNormal": "#c0c2ce",
-  "nvim-ui.nvimColorInsert": "#52bf90",
-  "nvim-ui.nvimColorVisual": "#FFA500",
+  "nvim-ui.nvimColorNormal": "#7aa2f7",
+  "nvim-ui.nvimColorInsert": "#9ece6a",
+  "nvim-ui.nvimColorVisual": "#bb9af7",
   "nvim-ui.nvimColorReplace": "#000",
   "nvim-ui.nvimColorCustomizationKeys": [
     "tab.activeBorder",
