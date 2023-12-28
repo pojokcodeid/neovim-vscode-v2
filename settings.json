@@ -18,7 +18,8 @@
   "nvim-ui.nvimColorCustomizationKeys": [
     "tab.activeBorder",
     "editorCursor.foreground",
-    "activityBarBadge.background"
+    "activityBarBadge.background",
+    "statusBarItem.remoteBackground"
   ],
   "extensions.experimental.affinity": {
     "asvetliakov.vscode-neovim": 1
